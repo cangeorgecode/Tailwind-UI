@@ -13,3 +13,4 @@ Thank you to all the beautiful people who created these amazing components and m
 - Pagedone https://pagedone.io/
 - TW Elements https://tw-elements.com/
 - Mamba UI https://mambaui.com/
+- Kutty https://kutty.netlify.app/
